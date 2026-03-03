@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Jogo da Forca.jnlp">
+  <information>
+    <title>Jogo da Forca</title>
+    <vendor>aline</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" java-vm-args="-cp "C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javafx-swt.jar" "  href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\javafx-swt.jar" size="37110" download="eager" />
+    <jar href="lib\javafx.base.jar" size="745597" download="eager" />
+    <jar href="lib\javafx.controls.jar" size="2544873" download="eager" />
+    <jar href="lib\javafx.fxml.jar" size="129482" download="eager" />
+    <jar href="lib\javafx.graphics.jar" size="4250921" download="eager" />
+    <jar href="lib\javafx.media.jar" size="275923" download="eager" />
+    <jar href="lib\javafx.swing.jar" size="88801" download="eager" />
+    <jar href="lib\javafx.web.jar" size="719680" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Jogo da Forca" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="controller.JogoDaForca"  name="Jogo da Forca" />
+  <update check="always"/>
+</jnlp>
