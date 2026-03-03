@@ -2,7 +2,13 @@
 
 Este projeto foi desenvolvido como Trabalho Prático da disciplina de Programação Orientada a Objetos na Universidade Federal de Viçosa (UFV) - Campus Florestal. O objetivo principal foi criar um Jogo da Forca interativo utilizando JavaFX para a interface gráfica, aplicando conceitos de orientação a objetos e arquitetura MVC (Model-View-Controller).
 
-[![Demonstração do Jogo da Forca]]([https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/caminho/para/seu-video.mp4](https://github.com/alinec-santos/jogo-forca/blob/main/jogo-forca/assets/YTDown.com_YouTube_Jogo-Da-Forca_Media_362sBdnwerE_001_1080p.mp4))
+Confira o jogo em funcionamento clicando na imagem abaixo:
+
+[![Jogo da Forca - Demonstração Completa](https://img.youtube.com/vi/362sBdnwerE/0.jpg)](https://youtu.be/362sBdnwerE)
+
+**🔗 Link direto:** [https://youtu.be/362sBdnwerE](https://youtu.be/362sBdnwerE)
+
+*Sugestão: Assista na velocidade 0.8x para melhor visualização dos detalhes*
 
 ## 1. Descrição do Projeto
 O Jogo da Forca é um clássico jogo de adivinhação onde o jogador deve descobrir uma palavra secreta, escolhendo letras do alfabeto dentro de um limite de 6 erros. Este projeto implementa uma versão desktop com interface gráfica moderna, permitindo a seleção de múltiplos temas e oferecendo uma experiência visual atraente e interativa.
